@@ -1,0 +1,1 @@
+file1.txt is the src and file2 is the dest 

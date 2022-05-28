@@ -5,7 +5,7 @@
 downlaod the node js and install it :
 https://nodejs.org/en/
 
-bash```
+```
 git clone https://github.com/Asalek/node_js.git
 cd node_js
 npm install express --save
